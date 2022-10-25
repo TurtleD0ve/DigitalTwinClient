@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/engine">
+        <file>assets/cut.gif</file>
+    </qresource>
+</RCC>
